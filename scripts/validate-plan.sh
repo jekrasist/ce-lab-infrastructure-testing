@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
-
+echo "new script"
 echo "=== Plan Validation ==="
 echo ""
 
